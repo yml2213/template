@@ -1,6 +1,6 @@
 /**
  * 教程 
- * 地址： https://github.com/yml2213/template/jiaocheng.js
+ * 地址： https://raw.githubusercontent.com/yml2213/template/master/jiaocheng.js
  * 
  * 教程    这里是写脚本说明的地方
  * 本脚本仅用于学习使用请勿直接运行
