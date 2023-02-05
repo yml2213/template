@@ -4,7 +4,7 @@
 
 ### 使用步骤
 
-1. clong 本仓库,vs 打开
+1. clong 本仓库,vscode 打开
 2. 运行 `npm install` 安装 package.json 中的模块 (运行 `npm install`, 运行 `npm install`)
 3. 学习并修改教程模版即可,
    1. 详细注释请参考 leaf 大佬教程,
